@@ -1,3 +1,2 @@
 # projeto-aula-sexta-feira
-projeto para aprender comandos git
-blablabla
+projeto para aprender comandos git / OPA TA LEGAL AINDA
